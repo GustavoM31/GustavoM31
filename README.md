@@ -9,6 +9,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoM31&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoM31&layout=compact_&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GustavoM31)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que possuo conhecimento
 
 <div style="display: inline_block">
