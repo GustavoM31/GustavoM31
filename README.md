@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoM31&theme=tokyonight)
 
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoM31&theme=tokyonight&exclude={exclude})
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustavoM31&theme=tokyonight&exclude={exclude})
 
 ## Tecnologias que possuo conhecimento
 
