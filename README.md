@@ -10,6 +10,8 @@
 
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoM31&theme=tokyonight&exclude={exclude})
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoM31&layout=compact)
+
 ## Tecnologias que possuo conhecimento
 
 <div style="display: inline_block">
