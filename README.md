@@ -10,7 +10,6 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoM31&layout=compact)
-
  
 ## Tecnologias que possuo conhecimento
 
