@@ -10,8 +10,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoM31&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoM31&layout=compact)
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoM31&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
+
 ## Tecnologias que possuo conhecimento
 
 <div style="display: inline_block">
