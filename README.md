@@ -11,7 +11,7 @@
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoM31&theme=tokyonight&exclude={exclude})
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoM31&hide=javascript,html)
 
-## Tecnologias que possuo conhecimento
+## Tecnologias de conhecimento
 
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
