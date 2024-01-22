@@ -8,8 +8,6 @@
 
 ![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoM31&theme=tokyonight)
 
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoM31&theme=tokyonight&exclude={exclude})
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoM31&hide=javascript,html)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoM31&layout=compact)
 ## Tecnologias de conhecimento
 
