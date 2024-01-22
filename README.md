@@ -7,7 +7,7 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavomo)
 
 ![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoM31&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoM31&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoM31&layout=compact)
 ## Tecnologias de conhecimento
 
